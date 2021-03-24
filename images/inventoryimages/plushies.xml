@@ -1,0 +1,18 @@
+<Atlas><Texture filename="plushies.tex" />
+    <Elements>
+		<Element name="trade01.tex" u1="0" u2=".25" v1=".75" v2="1" />
+		<Element name="trade02.tex" u1=".25" u2=".5" v1=".75" v2="1" />
+		<Element name="trade03.tex" u1=".5" u2=".75" v1=".75" v2="1" />
+		<Element name="trade04.tex" u1=".75" u2="1" v1=".75" v2="1" />
+		<Element name="trade05.tex" u1="0" u2=".25" v1=".5" v2=".75" />
+		<Element name="trade06.tex" u1=".25" u2=".5" v1=".5" v2=".75" />
+		<Element name="trade07.tex" u1=".5" u2=".75" v1=".5" v2=".75" />
+		<Element name="trade08.tex" u1=".75" u2="1" v1=".5" v2=".75" />
+		<Element name="trade09.tex" u1="0" u2=".25" v1=".25" v2=".5" />
+		<Element name="trade10.tex" u1=".25" u2=".5" v1=".25" v2=".5" />
+		<Element name="trade11.tex" u1=".5" u2=".75" v1=".25" v2=".5" />
+		<Element name="trade12.tex" u1=".75" u2="1" v1=".25" v2=".5" />
+		<Element name="trade13.tex" u1="0" u2=".25" v1="0" v2=".25" />
+		<Element name="trade14.tex" u1=".25" u2=".5" v1="0" v2=".25" />
+	</Elements>
+</Atlas>
